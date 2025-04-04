@@ -74,15 +74,7 @@ All datasets were transformed and merged within Power BI using **Power Query**, 
 
 
 
----
 
-## 🚀 Installation & Usage
-
-1. Clone the repo  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Refresh the data sources or update paths as needed  
-4. Interact with the visualizations, filters, and drill-downs  
-5. Copilot is enabled — try asking questions in the Insights pane!
 
 
 
