@@ -70,7 +70,7 @@ All datasets were transformed and merged within Power BI using **Power Query**, 
 ## 📸 Screenshots
 
 ### 🔻 Dashboard Overview
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](dashboard.png)
 
 
 
