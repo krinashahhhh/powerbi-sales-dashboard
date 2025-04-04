@@ -1,33 +1,94 @@
-# Power BI Sales Analytics Dashboard 🚚📈
 
-A dynamic, end-to-end business intelligence solution built using Power BI to explore and visualize regional sales performance, profit margins, and shipping delays. This dashboard analyzes 20K+ transactional records and provides actionable insights using advanced DAX measures, time-series intelligence, and geospatial mapping.
+# 📊 Power BI Business Analytics Dashboard
 
-## ✨ Key Highlights
+A comprehensive interactive dashboard developed in **Power BI**, designed to analyze transactional sales data, uncover shipping inefficiencies, and forecast business trends. This project demonstrates my end-to-end capabilities in **data integration, modeling, analytics, and visualization**, along with the use of **AI-powered Copilot** for auto-generating business insights.
 
-- 📌 **Copilot-Enhanced Insights**: Integrated Microsoft Copilot to auto-generate natural language summaries and AI-driven questions directly within the report, enabling faster business understanding and deeper data exploration.
+---
 
-- 🔍 **Sales & Profit Intelligence**: Interactive KPIs and custom DAX metrics such as YoY profit trends, profit-to-sales ratios, and moving averages to track business health across regions and sub-categories.
+## 🧠 Project Overview
 
-- 🌍 **Geospatial Analysis**: Visual breakdown of sales distribution by state and region, highlighting high-performing zones and underperforming clusters.
+This dashboard empowers users with actionable insights into:
 
-- ⏱️ **Logistics Optimization**: Identified an average 3-day delay in shipping across select categories, empowering supply chain teams to take data-backed action.
+- Regional sales performance and trends  
+- Profit-to-sales efficiency by category and sub-category  
+- Shipping delay patterns across product lines  
+- Quarterly sales forecasting using time intelligence  
+- Auto-generated business insights via Copilot
 
-## 📸 Preview
-![Dashboard Screenshot](dashboard-preview.png)
+---
 
-## 🧰 Tools & Technologies
+## 📂 Data Sources
 
-- Power BI Desktop  
-- DAX (Calculated Columns & Measures)  
-- SQL (Preprocessing)  
-- Time Intelligence Functions  
-- Geospatial Visualization  
-- Microsoft Copilot
+Data was sourced from **Kaggle** and other open repositories, including:
 
-## 📥 How to Use
+- Sales transactions (orders, profit, shipping time)  
+- Product and sub-category metadata  
+- Regional and customer demographic information  
 
-1. Download the `.pbix` file
-2. Open using Power BI Desktop (2023 or later)
-3. Navigate through the interactive dashboard and explore Copilot-generated insights by hovering over AI-enabled visuals
+All datasets were transformed and merged within Power BI using **Power Query**, and relationships were defined in a **star schema model**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop**  
+- **Power Query (M Language)**  
+- **DAX** (Data Analysis Expressions)  
+- **SQL (for validation)**  
+- **Copilot for auto-generated insights**
+
+---
+
+## 🔧 Key Features & Implementation
+
+### 🔹 Data Integration & Modeling
+- Connected and cleaned multiple CSV data sources
+- Normalized structure into fact and dimension tables
+- Built a star schema for efficient data relationships
+
+### 🔹 Data Transformation
+- Applied filtering, joins, type casting, and calculated columns
+- Created clean, analysis-ready data for dashboard consumption
+
+### 🔹 Advanced DAX
+- Computed KPIs like:
+  - Profit-to-Sales Ratio  
+  - YoY Trends  
+  - 3-Day Shipping Delay Average  
+- Applied **Time Intelligence** for dynamic period-over-period comparison
+
+### 🔹 Visualizations
+- Dynamic bar/line charts, pie charts, and **map-based geospatial insights**
+- **Drill-down filters** and **category-based segmentation**
+
+### 🔹 Forecasting & AI Insights
+- Implemented **forecasting visuals** using built-in analytics
+- Enabled **Power BI Copilot** to generate natural language summaries & key takeaways
+
+---
+
+## 📸 Screenshots
+
+### 🔻 Dashboard Overview
+![Main Dashboard](screenshots/dashboard-overview.png)
+
+### 📍 Region-wise Performance
+![Regional Analysis](screenshots/region-wise.png)
+
+### 📈 Forecast & Time Trends
+![Time Trends](screenshots/forecast.png)
+
+---
+
+## 🚀 Installation & Usage
+
+1. Clone the repo  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Refresh the data sources or update paths as needed  
+4. Interact with the visualizations, filters, and drill-downs  
+5. Copilot is enabled — try asking questions in the Insights pane!
+
+
+
 
                                                                                                              
