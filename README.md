@@ -70,13 +70,9 @@ All datasets were transformed and merged within Power BI using **Power Query**, 
 ## 📸 Screenshots
 
 ### 🔻 Dashboard Overview
-![Main Dashboard](screenshots/dashboard-overview.png)
+![Main Dashboard](screenshots/dashboard.png)
 
-### 📍 Region-wise Performance
-![Regional Analysis](screenshots/region-wise.png)
 
-### 📈 Forecast & Time Trends
-![Time Trends](screenshots/forecast.png)
 
 ---
 
