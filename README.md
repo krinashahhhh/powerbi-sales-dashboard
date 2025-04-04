@@ -1,6 +1,6 @@
 # Power BI Sales Analytics Dashboard 🚚📈
 
-A dynamic, end-to-end business intelligence solution built using Power BI to explore and visualize regional sales performance, profit margins, and shipping delays. This dashboard analyzes 9K+ transactional records and provides actionable insights using advanced DAX measures, time-series intelligence, and geospatial mapping.
+A dynamic, end-to-end business intelligence solution built using Power BI to explore and visualize regional sales performance, profit margins, and shipping delays. This dashboard analyzes 20K+ transactional records and provides actionable insights using advanced DAX measures, time-series intelligence, and geospatial mapping.
 
 ## ✨ Key Highlights
 
